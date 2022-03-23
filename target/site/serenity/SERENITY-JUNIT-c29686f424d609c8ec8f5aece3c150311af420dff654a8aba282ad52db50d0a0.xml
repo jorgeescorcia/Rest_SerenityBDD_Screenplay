@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="runner.TestInitial" skipped="0" tests="1" time="4.04" timestamp="2022-03-23 02:06:24"><testcase classname="runner.TestInitial" name="Get user fail"><failure message="&#13;&#10;Expecting:&#13;&#10; &lt;200&gt;&#13;&#10;to be equal to:&#13;&#10; &lt;400&gt;&#13;&#10;but was not." type="org.opentest4j.AssertionFailedError">&#13;
+Expecting:&#13;
+ &lt;200&gt;&#13;
+to be equal to:&#13;
+ &lt;400&gt;&#13;
+but was not.</failure><system-err>&#13;
+Expecting:&#13;
+ &lt;200&gt;&#13;
+to be equal to:&#13;
+ &lt;400&gt;&#13;
+but was not.&#13;
+runner.TestInitial.GetUserFail(TestInitial.java:38)&#13;
+</system-err></testcase></testsuite>
