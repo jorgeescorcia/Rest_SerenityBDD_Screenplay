@@ -64,6 +64,8 @@ y los diferentes servicios a probar
 - Contar con la herramienta Postman
 	
 --------------------------------------------------------------------------------------
+
+**HU002 – Creación de Posts**	
 	
 ## Alcance
 
@@ -74,7 +76,7 @@ Dichas pruebas se realizaran en diferentes navegadores
 Se probaran los servicios utlizando la herramienta Postman
 
 Se realizaran pruebas automatizadas	
-**HU002 – Creación de Posts**
+
 
   yo como usuario del servicio
 	
