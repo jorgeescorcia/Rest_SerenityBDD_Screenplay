@@ -15,9 +15,10 @@ Sitios Web RestApi:
 
 ## 2. Alcance
 
-Dichas pruebas se realizaran en diferentes navegadore
+Dichas pruebas se realizaran en diferentes navegadores
 - Google Chrome
 - Mozilla firefox
+
 Se probaran los servicios utlizando la herramienta Postman
 Se realizaran pruebas automatizadas
 
