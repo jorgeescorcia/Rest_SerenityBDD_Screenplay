@@ -1,6 +1,7 @@
 # Plan de pruebas RestSerenityBDDScreenplay
 
 | Version  | Comentarios |Fecha|Descripción|Responsable|
+|----------|:-------------:|------:|-------:|---------|
 | 1.0  | Creacion  |25/03/2021|Creación Plan De pruebas|Jorge Escorcia|
 
 1.Introducción
