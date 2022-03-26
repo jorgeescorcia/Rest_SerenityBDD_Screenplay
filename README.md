@@ -28,7 +28,7 @@ HU001 – Lista de Colores
   quiero poder consultar el servicio
   para visualizar la lista de colores
   
-### Criterios De Acpetación 
+## Criterios De Acpetación 
 - El usuario que consumira el servicio podrá visualizar la lista de colores del servicio List<Resource>
 - El servicio debera devolver el codigo respuesta correcto de acuerdo metodo de consulta establecido
 	
@@ -54,6 +54,10 @@ y los diferentes servicios a probar
 |----------|:-------------:|------:|-------:|
 |HU001 Mostrar un color de la lista  | 5  |5|25|
 |HU001 Mostrar el resumen de todos los colores  | 4  |3|12|
+	
+## Requerimientos
+- Mantener actualizados los servicios a consumir
+- Contar con la herramienta Postman
 	
 	
 
