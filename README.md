@@ -6,7 +6,7 @@
 
 ## Descripción
 En esta ocasion necesitamos automatizar algunos servicios Rest que se encuentran alojados en diferentes sitios web, verificaremos que el servicio
-ListResource de la web https://reqres.in/ mediante el metodo GET nos devuelva los valores a consultar de forma correcta.
+"ListResource" de la web https://reqres.in/ mediante el metodo GET  y por otra parte tambien verificaremos el servicio "posts" de la web https://jsonplaceholder.typicode.com/ mediante el metodo POST 
 
 Sitios Web RestApi:
 - https://pokeapi.co
@@ -65,6 +65,15 @@ y los diferentes servicios a probar
 	
 --------------------------------------------------------------------------------------
 	
+## Alcance
+
+Dichas pruebas se realizaran en diferentes navegadores
+- Google Chrome
+- Mozilla firefox
+
+Se probaran los servicios utlizando la herramienta Postman
+
+Se realizaran pruebas automatizadas	
 **HU002 – Creación de Posts**
 
   yo como usuario del servicio
