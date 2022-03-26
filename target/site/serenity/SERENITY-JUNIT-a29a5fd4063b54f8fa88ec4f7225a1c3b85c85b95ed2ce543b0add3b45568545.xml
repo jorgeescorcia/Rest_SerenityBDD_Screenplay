@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Lista de posts" skipped="0" tests="2" time="4.73" timestamp="2022-03-25 07:44:12"><testcase name="Consulta exitosa de lista posts"/><testcase name="Se le agrega un parametro adicional al cuerpo del post"/></testsuite>

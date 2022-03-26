@@ -1,23 +1,18 @@
 package runner;
 
-import models.Datum;
-import net.serenitybdd.junit.runners.SerenityRunner;
-import net.serenitybdd.screenplay.Actor;
-import net.serenitybdd.screenplay.rest.abilities.CallAnApi;
-import org.junit.Test;
+import io.cucumber.junit.CucumberOptions;
+import io.cucumber.junit.CucumberSerenityRunner;
 import org.junit.runner.RunWith;
-import questions.GetListResources;
-import questions.ResponseCode;
-import tasks.GetList;
 
-import static net.serenitybdd.screenplay.GivenWhenThen.seeThat;
-import static org.hamcrest.CoreMatchers.equalTo;
-import static org.hamcrest.CoreMatchers.notNullValue;
+@RunWith(CucumberSerenityRunner.class)
+@CucumberOptions(
+        features = {"src/test/resources/features/listResource.feature"},
+        glue ="stepsdefinitions"
 
-@RunWith(SerenityRunner.class)
+)
 
 public class TestInitial {
-    private static final String URL_REST_API ="https://reqres.in";
+    /* private static final String URL_REST_API ="https://reqres.in";
     @Test
     public void InitialTest(){
         Actor jorge = Actor.named("Jorge QA")
@@ -42,6 +37,31 @@ public class TestInitial {
                 seeThat("el nombre es", act -> user.getName(),equalTo("cerulean"))
         );
     }
+*/
+  /*  @Test
+    public void Post(){
+        Actor jorge = Actor.named("Jorge QA")
+                .whoCan(CallAnApi.at(URL_REST_API));
 
+        PostInfo postInfo = new PostInfo();
+        postInfo.setId("101");
+
+        //Llamando a la tarea
+
+        String postInfo =("{
+    "id": 101
+}")
+    jorge.attemptsTo(
+            GetPosts.withInfo(postInfo)
+    );
+        jorge.should(
+                seeThat("El codigo de respuesta es =", new ResponseCode(),equalTo(201))
+        );
+
+
+
+
+    }
+*/
 
 }

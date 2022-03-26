@@ -1,0 +1,8 @@
+
+y	java:S116
+"XRename this field "pantone_value" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€•™—üÿÿÿÿ8ÄÌŸñû/
+j	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø½ı8ÌÌŸñû/
+j	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¬¶ø8ÍÌŸñû/
+g
+java:S1128"ERemove this unused import 'org.junit.runner.manipulation.Filterable'.(À°ŸŠÿÿÿÿÿ8±ğøùû/
+m	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¬¶ø8ÏÌŸñû/

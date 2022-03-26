@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Test initial","Get user fail","FAILURE","2022-03-23T14:06:24.581-05:00[America/Bogota]","0.0","4.04"
+"Test initial","Get user","SUCCESS","2022-03-23T14:34:00.243-05:00[America/Bogota]","0.0","3.95"
+"Test initial","Getposts","ERROR","2022-03-23T20:53:19.806-05:00[America/Bogota]","0.0","4.87"
+"Test initial","Get list","ERROR","2022-03-23T20:59:15.263-05:00[America/Bogota]","0.0","4.53"
+"Test initial","Initial test","SUCCESS","2022-03-24T21:25:04.743-05:00[America/Bogota]","0.0","4.68"

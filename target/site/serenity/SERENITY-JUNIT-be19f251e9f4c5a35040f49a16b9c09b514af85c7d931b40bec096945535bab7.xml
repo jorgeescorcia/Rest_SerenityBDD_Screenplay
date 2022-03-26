@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Lista de colores" skipped="0" tests="1" time="4.7" timestamp="2022-03-24 10:08:46"><testcase name="Consulta fallida"><failure message="&#10;Expected: &lt;500&gt;&#10;     but: was &lt;200&gt;" type="java.lang.AssertionError">
+Expected: &lt;500&gt;
+     but: was &lt;200&gt;</failure><system-err>
+Expected: &lt;500&gt;
+     but: was &lt;200&gt;&#13;
+stepsdefinitions.ListStepsDefinitions.no_podra_ver_el_nombre_del_color_consultado(ListStepsDefinitions.java:51)&#13;
+✽.no podra ver el nombre del color consultado(file:///E:/Sofka%20University/Introduccion%20a%20la%20Automatizacion%20de%20Pruebas%20de%20software/Rest_SerenityBDD_Screenplay/src/test/resources/features/listResource.feature:15)&#13;
+</system-err></testcase></testsuite>

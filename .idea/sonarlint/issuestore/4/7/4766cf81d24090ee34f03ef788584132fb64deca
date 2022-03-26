@@ -1,0 +1,9 @@
+
+o	java:S116"SRename this field "per_page" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÎŒÏ8©À™ñû/
+w	java:S116	"VRename this field "total_pages" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‚´ùÿÿÿÿ8¹Âœñû/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÅÄÿÿÿÿÿ8°À™ñû/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ú¾øÿÿÿÿ8±À™ñû/
+j	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú†ê8ÃÂœñû/
+o	java:S100*"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úè¨õşÿÿÿÿ8ÄÂœñû/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ú¾øÿÿÿÿ8¸À™ñû/
+r	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úè¨õşÿÿÿÿ8ÈÂœñû/

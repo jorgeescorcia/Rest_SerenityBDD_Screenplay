@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Lista de colores","Consulta fallida","SUCCESS","2022-03-25T00:12:28.765-05:00[America/Bogota]","0.0","0.59"
+"Lista de colores","Consulta exitosa de lista de colores","SUCCESS","2022-03-25T00:34:49.839-05:00[America/Bogota]","0.0","4.18"
+"Lista de colores","Se le agrega un para metro adicional a la url","SUCCESS","2022-03-25T00:34:54.024-05:00[America/Bogota]","0.0","0.59"
