@@ -68,24 +68,24 @@ y los diferentes servicios a probar
 **HU002 – Creación de Posts**
 
   yo como usuario del servicio
-  
-  quiero poder consultar el servicio
-  
-  para visualizar la lista de colores
+	
+  quiero crear un post
+	
+  para visualizar el post creado
+
   
 - Verificar que se establezca de forma exitosa la conexión con el servicio
 - Verificar que el codigo de respuesta obtenido sea el correcto
-- Verificar que el color consultado sea el correcto
+- Verificar que posts la modifcación del post sea correcta
 
 ## Fuera de Alcance
-- No se verificará la cantidad de servicios disponibles a consumir
+- No se verificará la cantidad de posts dentro del servicio
 - No se verificará el tiempo de carga de los servicios
   
 ## Criterios De Acpetación 
-- El usuario que consumira el servicio podrá visualizar la lista de colores del servicio List<Resource>
+- El usuario que consumira el servicio podrá visualizar crear un posts y modificarlo
 - El servicio debera devolver el codigo respuesta correcto de acuerdo metodo de consulta establecido
 	
-
 	
 ## Estrategia de pruebas
 Todas las ejecuciones de pruebas serán de tipo Automatizada.
@@ -98,8 +98,8 @@ y los diferentes servicios a probar
 ## Analisis de Riesgo
 | Riesgo | Probabilidad |Impacto|Criticidad|
 |----------|:-------------:|------:|-------:|
-|HU001 Mostrar un color de la lista  | 5  |5|25|
-|HU001 Mostrar el resumen de todos los colores  | 4  |3|12|
+|HU001 Posts modifcado correctamente  | 6  |5|30|
+|HU001 Mostrar posts modificado  | 5  |4|20|
 	
 ## Requerimientos
 - Mantener actualizados los servicios a consumir
