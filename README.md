@@ -20,6 +20,7 @@ Dichas pruebas se realizaran en diferentes navegadores
 - Mozilla firefox
 
 Se probaran los servicios utlizando la herramienta Postman
+
 Se realizaran pruebas automatizadas
 
 
