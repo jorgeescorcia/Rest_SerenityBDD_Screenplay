@@ -26,7 +26,9 @@ Se realizaran pruebas automatizadas
 **HU001 – Lista de Colores**
 
   yo como usuario del servicio
+  
   quiero poder consultar el servicio
+  
   para visualizar la lista de colores
   
 ## Criterios De Acpetación 
