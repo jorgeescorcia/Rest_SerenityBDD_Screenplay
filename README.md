@@ -46,6 +46,14 @@ Todas las ejecuciones de pruebas serán de tipo Automatizada.
 
 Se iniciará realizando un Smoke Test para determinar que el portal cargue correctamente.
 Por otra parte de validaran las diferentes web con sus servicios mediante la aplicacion Postman
+Se definirán acuerdos entre el equipo de prueba para agendar el tiempo y fechas en que cada QA hará uso del ambiente de pruebas
+y los diferentes servicios a probar
+	
+## Analisis de Riesgo
+| Riesgo | Probabilidad |Impacto|Criticidad|
+|----------|:-------------:|------:|-------:|
+|HU001 Mostrar un color de la lista  | 5  |5|25|
+|HU001 Mostrar el resumen de todos los colores  | 4  |3|12|
 	
 	
 
