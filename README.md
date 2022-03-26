@@ -31,18 +31,19 @@ Se realizaran pruebas automatizadas
   
   para visualizar la lista de colores
   
+- Verificar que se establezca de forma exitosa la conexión con el servicio
+- Verificar que el codigo de respuesta obtenido sea el correcto
+- Verificar que el color consultado sea el correcto
+
+## Fuera de Alcance
+- No se verificará la cantidad de servicios disponibles a consumir
+- No se verificará el tiempo de carga de los servicios
+  
 ## Criterios De Acpetación 
 - El usuario que consumira el servicio podrá visualizar la lista de colores del servicio List<Resource>
 - El servicio debera devolver el codigo respuesta correcto de acuerdo metodo de consulta establecido
 	
-## Alcance
-- Verificar que se establezca de forma exitosa la conexión con el servicio
-- Verificar que el codigo de respuesta obtenido sea el correcto
-- Verificar que el color consultado sea el correcto
-	
-## Fuera de Alcance
-- No se verificará la cantidad de servicios disponibles a consumir
-- No se verificará el tiempo de carga de los servicios
+
 	
 ## Estrategia de pruebas
 Todas las ejecuciones de pruebas serán de tipo Automatizada.
