@@ -4,7 +4,7 @@
 |----------|:-------------:|------:|-------:|---------|
 | 1.0  | Creacion  |25/03/2021|Creación Plan De pruebas|Jorge Escorcia|
 
-## 1. Descripción
+## Descripción
 En esta ocasion necesitamos automatizar algunos servicios Rest que se encuentran alojados en diferentes sitios web, verificaremos que el servicio
 ListResource de la web https://reqres.in/ mediante el metodo GET nos devuelva los valores a consultar de forma correcta.
 
@@ -13,7 +13,7 @@ Sitios Web RestApi:
 - https://reqres.in/
 - https://jsonplaceholder.typicode.com/
 
-## 2. Alcance
+## Alcance
 
 Dichas pruebas se realizaran en diferentes navegadores
 - Google Chrome
